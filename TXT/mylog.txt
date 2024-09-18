@@ -2,6 +2,9 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
+ZCZC W03 40 L25 C-language including Make.
+ZCZC W03 150 L09 Assignment in General
+ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W02 90 L11 Assignment #01
 ZCZC W02 30 L09 Weekly Assignments
 ZCZC W02 100 L02 CLASSROOM/ZOOM meetings related
