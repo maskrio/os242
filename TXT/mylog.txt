@@ -3,6 +3,7 @@
 # LogCode + Description List
 
 ZCZC W03 200 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 200 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W03 40 L25 C-language including Make.
 ZCZC W03 150 L09 Assignment in General
 ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related
