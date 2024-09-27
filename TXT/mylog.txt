@@ -2,8 +2,8 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
-
-ZCZC W01 50 L05 Quiz related including studying
+ZCZC W04 150 L01 Doing PopQuiz and trying to learn scp and scripting
+ZCZC W04 50 L05 Quiz related including studying
 ZCZC W04 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W04 100 L09 Assignment in General
 ZCZC W04 200 L06 References/Books/Documents/Browsing/GSGS related
