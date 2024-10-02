@@ -2,7 +2,8 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
-ZCZC W04 100 L09 Assignment in General
+ZCZC W05 100 L01 Doing PopQuiz
+ZCZC W05 100 L09 Assignment in General
 ZCZC W05 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W04 70 L08 Helping a fellow classmate
 ZCZC W04 90 L01 Doing PopQuiz and trying to learn scp and scripting
