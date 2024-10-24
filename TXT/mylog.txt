@@ -2,6 +2,10 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
+ZCZC W06 70 L08 Helping a fellow classmate
+ZCZC W06 200 L09 Assignment in General
+ZCZC W06 250 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W05 300 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W05 50 L05 Quiz related including studying
 ZCZC W05 100 L01 Doing PopQuiz
