@@ -2,6 +2,10 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
+ZCZC W08 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W08 50 L05 Quiz related including studying
+ZCZC W08 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W08 390 L09 Assignment in General
 ZCZC W07 150 L05 Quiz related including studying
 ZCZC W07 200 L09 Assignment in General
 ZCZC W07 200 L06 References/Books/Documents/Browsing/GSGS related
